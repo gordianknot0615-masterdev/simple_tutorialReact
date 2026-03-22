@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Update README
 
-Co-authored-by: fastcoding-master universal-coder15@outlook.com
+Co-authored-by: fastcoding-master <universal-coder15@outlook.com>
